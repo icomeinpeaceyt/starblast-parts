@@ -1,0 +1,14 @@
+    small2dsquare:
+      doubleside: true
+      offset:
+        x: 200
+        y: 0
+        z: -80
+      length: [0,0,50,0]
+      width: [50,50,50,50,50]
+      angle: [55,90,0,95]
+      position: [0,0,0,0,0]
+      texture: [7]
+      bump:
+        position: 0
+        size: 0
